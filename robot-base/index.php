@@ -53,7 +53,7 @@
   <span class="range-slider__value">0</span>
 </div>
 <div class="range-slider" style="width: 50%;height: 10%;">
-<p> Servo Motor 6</p>
+<p> Motor 6</p>
   <input class="range-slider__range" type="range" value="90" min="0" max="180" name="Motor6">
   <span class="range-slider__value">0</span><br>
 
